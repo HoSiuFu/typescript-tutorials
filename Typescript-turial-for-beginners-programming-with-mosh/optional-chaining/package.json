@@ -1,0 +1,16 @@
+{
+  "name": "optional-chaining",
+  "version": "1.0.0",
+  "description": "Hello world tutorial",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "",
+    "build": "tsc"
+  },
+  "author": "Danilo Andrade (HoSiuFu)",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
